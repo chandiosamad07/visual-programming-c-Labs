@@ -1,0 +1,12 @@
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csprojResolveAssemblyReference.cache
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.Cache
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+c:\users\023-19-0128\documents\visual studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
+C:\Users\023-19-0128\Documents\Visual Studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.matrix1.resources
+C:\Users\023-19-0128\Documents\Visual Studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.matrix2.resources
+C:\Users\023-19-0128\Documents\Visual Studio 2012\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.matrix3.resources
