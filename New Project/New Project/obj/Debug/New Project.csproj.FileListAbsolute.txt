@@ -1,0 +1,7 @@
+C:\Users\Jack sparrow\source\repos\New Project\New Project\bin\Debug\New Project.exe.config
+C:\Users\Jack sparrow\source\repos\New Project\New Project\bin\Debug\New Project.exe
+C:\Users\Jack sparrow\source\repos\New Project\New Project\bin\Debug\New Project.pdb
+C:\Users\Jack sparrow\source\repos\New Project\New Project\obj\Debug\New Project.csproj.AssemblyReference.cache
+C:\Users\Jack sparrow\source\repos\New Project\New Project\obj\Debug\New Project.csproj.CoreCompileInputs.cache
+C:\Users\Jack sparrow\source\repos\New Project\New Project\obj\Debug\New Project.exe
+C:\Users\Jack sparrow\source\repos\New Project\New Project\obj\Debug\New Project.pdb
